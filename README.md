@@ -118,7 +118,9 @@ Building the new Library of Alexandria: books, audiobooks, citations, summaries,
 
 ### Philosophy
 
-> "Build the library first. The empire can come later."
+> "The empires of the future are the empires of the mind."
+>
+> — Winston Churchill, Harvard University, 1943
 
 Random facts:
 
